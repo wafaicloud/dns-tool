@@ -1,6 +1,6 @@
 # Community DNS Tools
 
-A set of browser-based DNS tools for DigitalOcean Community.
+A set of browser-based DNS tools for WafaiCloud.
 
 ---
 
